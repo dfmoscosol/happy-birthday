@@ -2,7 +2,7 @@
   "greeting": "Hola",
   "name": "Magus",
   "greetingText": "No sé si quieras saber de mi...",
-  "wishText": "Y disculpame por como se dieron las cosas, espero algún día poder explicarte todo, talvez me puedas entender. Te deseo de corazón que seas muy feliz siempre",
+  "wishText": "Y disculpame por como se dieron las cosas. Todo ha sido muy difícil, espero algún día poder explicarte todo. Te deseo de corazón que seas muy feliz siempre mi contadora favorita.",
   "imagePath": "img/lydia2.png",
   "text1": "Pero es tu cumpleaños",
   "textInChatBox": "Feliz cumple, espero que estés bien... blah, blah, blah",
@@ -14,10 +14,10 @@
   "text5Entry": "Porque...",
   "text5Content": "Tú eres especial",
   "smiley": ":)",
-  "bigTextPart1": "ASI",
-  "bigTextPart2": "QUE",
+  "bigTextPart1": "<",
+  "bigTextPart2": "3",
   "wishHeading": "Feliz Cumpleaños!",
-  "outroText": "Siempre quise regalarte tus flores amarillas, están listas por si las quieres recibir dime a donde te las envío.",
-  "replayText": "PD: Dale clic aquí si te gustó para que se repita. Te quiero pandita hermosa.",
+  "outroText": "PD: Estando allá conseguí tus flores amarillas, si las quieres recibir dime a donde pido que te las envíen.",
+  "replayText": "Dale clic aquí si te gustó para que se repita. Cuidate mucho. Te quiero pandita hermosa.",
   "outroSmiley": ":)"
 }
