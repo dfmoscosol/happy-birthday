@@ -1,10 +1,10 @@
 {
   "greeting": "Hola",
   "name": "Magus",
-  "greetingText": "No sé si quieras saber de mi...",
+  "greetingText": "Sé que hoy es tu cumpleaños...",
   "wishText": "Y disculpame por como se dieron las cosas. Todo ha sido muy difícil, espero algún día poder explicarte todo. Te deseo de corazón que seas muy feliz siempre! Mi contadora favorita.",
   "imagePath": "img/lydia2.png",
-  "text1": "Pero es tu cumpleaños",
+  "text1": "Quise escribirte pero no sabía que decir",
   "textInChatBox": "Feliz cumple, espero que estés bien... blah, blah, blah",
   "sendButtonLabel": "Enviar",
   "text2": "Eso pensaba hacer. Pero luego recordé que...",
